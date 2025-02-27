@@ -1,0 +1,7 @@
+pdfplumber
+camelot-py[cv]
+pytesseract
+opencv-python
+pandas
+pdf2image
+PyPDF2==2.12.1
